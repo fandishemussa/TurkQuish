@@ -361,11 +361,9 @@ Backend repository:
 
 ```text
 https://github.com/fandishemussa/TurkQuish_Backend
-```
+
 
 Update the link after publishing the backend repository.
-
----
 
 ## Citation
 
@@ -378,9 +376,7 @@ If you use this app or the TurkQuish framework, please cite the associated manus
   journal = {TODO},
   year    = {2026}
 }
-```
 
----
 
 ## License
 
@@ -391,7 +387,7 @@ Recommended options:
 * MIT License
 * Apache-2.0 License
 
----
+
 
 ## Disclaimer
 
