@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "scan": "Scan",
+  "history": "History",
+  "settings": "Settings",
+  "analyzeUrl": "Analyze URL",
+  "cancel": "Cancel",
+  "copyUrl": "Copy URL",
+  "scanAnother": "Scan another QR",
+  "probabilisticNotice": "Prediction is probabilistic, not an absolute safety guarantee."
+}

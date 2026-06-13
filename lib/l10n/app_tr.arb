@@ -1,0 +1,11 @@
+{
+  "@@locale": "tr",
+  "scan": "Tara",
+  "history": "Geçmiş",
+  "settings": "Ayarlar",
+  "analyzeUrl": "URL'yi analiz et",
+  "cancel": "Vazgeç",
+  "copyUrl": "URL'yi kopyala",
+  "scanAnother": "Başka QR tara",
+  "probabilisticNotice": "Tahmin olasılıksaldır; mutlak güvenlik garantisi değildir."
+}

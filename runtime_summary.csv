@@ -1,0 +1,14 @@
+summary_scope,metric,status_code,count,mean_ms,median_ms,p95_ms,min_ms,max_ms,total_requests,success_count,failure_count
+measured,requests,,100,,,,,,100,40,60
+measured,successful_requests,,40,,,,,,100,40,60
+measured,failed_requests,,60,,,,,,100,40,60
+measured,status_code,200,40,,,,,,100,40,60
+measured,status_code,429,60,,,,,,100,40,60
+measured_successes_only,api_request_response_ms,,40,206.9584,228.3925,355.8087,58.0666,430.9980,100,40,60
+measured_successes_only,backend_latency_ms,,40,192.2000,220.5000,349.3000,45.0000,410.0000,100,40,60
+measured_successes_only,timingMs.total_backend,,40,192.2708,220.7226,349.3230,44.5557,409.7323,100,40,60
+measured_successes_only,timingMs.feature_extraction,,40,22.8802,22.2912,38.0177,7.3083,42.4589,100,40,60
+measured_successes_only,timingMs.brand_analysis,,40,82.9327,111.6704,201.5847,0.1125,238.4658,100,40,60
+measured_successes_only,timingMs.histgb_inference,,40,69.9035,64.9823,120.8433,26.2658,162.8244,100,40,60
+measured_successes_only,timingMs.url_transformer_inference,,30,7.1944,6.1479,9.5704,2.4315,40.5926,100,40,60
+measured_successes_only,timingMs.decision_fusion,,40,0.0953,0.0955,0.1386,0.0380,0.1910,100,40,60
