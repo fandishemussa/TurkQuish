@@ -366,11 +366,6 @@ If you use this app or the TurkQuish framework, please cite the associated manus
 
 
 ## License
-
-Add the project license here.
-
-Recommended options:
-
 * MIT License
 * Apache-2.0 License
 
