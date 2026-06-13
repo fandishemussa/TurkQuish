@@ -114,8 +114,8 @@ Make sure the phone and backend machine are on the same network.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TurkQuish_Flutter.git
-cd TurkQuish_Flutter
+git clone https://github.com/fandishemussa/TurkQuish.git
+cd TurkQuish
 ```
 
 ### 2. Install Flutter dependencies
