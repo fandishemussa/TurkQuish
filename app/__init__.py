@@ -1,2 +1,0 @@
-"""TurkQuish backend support package."""
-
