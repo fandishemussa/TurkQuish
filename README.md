@@ -4,8 +4,6 @@
 
 The app scans QR codes, extracts the decoded URL, previews it to the user, sends the decoded URL string to the TurkQuish backend, and displays a risk assessment with bilingual Turkish/English explanations.
 
----
-
 ## Overview
 
 QR-code phishing, also known as **quishing**, is a growing mobile security threat. Attackers hide malicious links behind QR codes, making it difficult for users to inspect the destination before visiting it.
@@ -23,7 +21,6 @@ TurkQuish Flutter provides an interactive mobile workflow for:
 * showing feature-based warning signals
 * optionally displaying runtime/debug timings during development
 
----
 
 ## Key Features
 
@@ -57,7 +54,7 @@ The result screen may include:
 
 The app is designed to support both Turkish and English explanations so that risk feedback can be understandable to local users while remaining accessible for research and international evaluation.
 
----
+
 
 ## App Workflow
 
@@ -277,11 +274,10 @@ TurkQuishTiming qr_payload_extraction_ms=...
 TurkQuishTiming url_validation_ms=...
 TurkQuishTiming api_request_response_ms=...
 TurkQuishTiming backend_latency_ms=...
-```
+
 
 Debug timing values should not be shown to normal users unless a debug mode is enabled.
 
----
 
 ## Screens
 
