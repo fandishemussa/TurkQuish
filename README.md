@@ -76,9 +76,7 @@ Send decoded URL to TurkQuish backend
 Receive prediction, risk score, probabilities, and explanation
    ↓
 Display bilingual risk report
-```
 
----
 
 ## Backend Dependency
 
@@ -110,7 +108,6 @@ http://192.168.1.10:8000/api/predict
 
 Make sure the phone and backend machine are on the same network.
 
----
 
 ## Installation
 
@@ -155,8 +152,6 @@ For physical device testing:
 const String backendBaseUrl = "http://YOUR_LOCAL_IP:8000";
 ```
 
----
-
 ## Running the App
 
 Check connected devices:
@@ -183,7 +178,7 @@ Build Android app bundle:
 flutter build appbundle
 ```
 
----
+
 
 ## Required Permissions
 
@@ -201,7 +196,6 @@ Expected permission:
 <uses-permission android:name="android.permission.CAMERA" />
 ```
 
----
 
 ## API Request
 
@@ -220,7 +214,6 @@ Example request:
 
 The exact field names should match the backend schema.
 
----
 
 ## API Response
 
@@ -253,7 +246,6 @@ Example response fields:
 }
 ```
 
----
 
 ## Runtime Debugging
 
@@ -303,7 +295,6 @@ Suggested Markdown:
 ![TurkQuish mobile prototype](docs/screenshots/turkquish_mobile_prototype.png)
 ```
 
----
 
 ## Suggested Folder Structure
 
@@ -325,7 +316,6 @@ lib/
 
 The exact structure may differ depending on the implementation.
 
----
 
 ## Design Principles
 
@@ -339,7 +329,6 @@ TurkQuish Flutter follows these principles:
 * Keep security warnings clear but not alarmist
 * Separate normal user UI from developer/runtime diagnostics
 
----
 
 ## Limitations
 
@@ -352,8 +341,6 @@ Known limitations:
 * QR scanning quality depends on camera, lighting, and QR-code quality.
 * The prototype has not been evaluated as a production-scale field deployment.
 * The backend does not inspect webpage content, screenshots, DNS, WHOIS, or third-party reputation sources.
-
----
 
 ## Related Repository
 
