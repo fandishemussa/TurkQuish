@@ -359,8 +359,8 @@ If you use this app or the TurkQuish framework, please cite the associated manus
 ```bibtex
 @article{turkquish2026,
   title   = {TurkQuish: Explainable URL-Only Detection of QR-Code Phishing in the Turkish Web Ecosystem},
-  author  = {TODO},
-  journal = {TODO},
+  author  = {Fandishe Mussa and  Doç. Dr. Özgür ÖKSÜZ},
+  journal = {Coming Soon},
   year    = {2026}
 }
 
